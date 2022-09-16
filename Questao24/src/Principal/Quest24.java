@@ -16,7 +16,7 @@ public class Quest24 {
 		hora = Double.parseDouble(receberHora);                                                                                         
 		h = Math.ceil(hora);
 		m = hora - h;
-		conversao = (h*60) + (m*100);
+		conversao = (h*60) + (m*60);
 		conversao = (double)(Math.round(conversao*100.0)/100.0);
 		
 		JOptionPane.showMessageDialog(null, "A hora que você digitou equivale a " + conversao + " minutos.");
