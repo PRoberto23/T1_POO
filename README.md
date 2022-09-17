@@ -40,8 +40,10 @@ c) O valor, em reais, a ser pago com desconto de 15%.</p>
   </details>
    <details><summary><b>Questão 24</b></summary>
   <p>Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que: <br>
- <ul type = "circle"> para quatro e meia deve-se digitar 4.30; <br>
-   os minutos vão de 0 a 60.</ul></p>
+ <ul type = "circle"> 
+   <li> para quatro e meia deve-se digitar 4.30; <br>
+   <li> os minutos vão de 0 a 60.
+  </ul></p>
   </details>
    <details><summary><b>Questão 25</b></summary>
   <p>Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse preograma deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado.</p>
