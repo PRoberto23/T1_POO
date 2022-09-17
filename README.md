@@ -1,20 +1,12 @@
 <html>
-  <head>
-<style>
-  a{
-  color: white;
-  text-decoration: none;
-  }
-  </style>
-  </head>
   <body>
     <h1> T1_POO </h1>
 Repositório reservado para armazenar as questões que foram escolhidas e resolvidas para aprimorar os conhecimentos básicos em java. As questões aqui guardadas servirão para o professor analisar nossos conhecimentos. 
 
 <h2> Equipe </h2>
 Integrantes: <br>
-<a href = "https://github.com/DaviCaroco" target = "_blank">Davi Brandão dos Santos</a> e<br>
-<a href = "https://github.com/PRoberto23" target = "_blank">Paulo Roberto Carlos de Sousa</a><br>
+<a href = "https://github.com/DaviCaroco" target = _blank >Davi Brandão dos Santos</a> e<br>
+<a href = "https://github.com/PRoberto23" target = _blank >Paulo Roberto Carlos de Sousa</a><br>
 P3 do Técnico Integrado em Informática no semestre 2022.2 <br>
 IFCE Campus Fortaleza.<br>
 
