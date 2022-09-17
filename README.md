@@ -1,11 +1,12 @@
 # T1_POO
-Trabalho de POO
-Neste repositório estão algumas das questões diponibilizadas para a o trabalho que vale a primeira nota da N1 da matéria de POO.
+Repositório reservado para armazenar as questões que foram escolhidas e resolvidas para aprimorar os conhecimentos básicos em java. As questões aqui guardadas servirão para o professor analisar nossos conhecimentos. 
 
 # Equipe
 Integrantes: <br>
-Davi Brandão dos Santos e Paulo Roberto Carlos de Sousa;
-<p> P3 de Informática </p>
+<a href = "https://github.com/DaviCaroco">Davi Brandão dos Santos</a> e<br>
+<a href = "https://github.com/PRoberto23">Paulo Roberto Carlos de Sousa</a><br>
+P3 do Técnico Integrado em Informática no semestre 2022.2 <br>
+IFCE Campus Fortaleza.<br>
 
 ## Questões
 <details><summary><b>Questão 03</b></summary>
