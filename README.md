@@ -1,7 +1,5 @@
-# T1_POO
-Repositório reservado para armazenar as questões que foram escolhidas e resolvidas para aprimorar os conhecimentos básicos em java. As questões aqui guardadas servirão para o professor analisar nossos conhecimentos. 
-
-# Equipe
+<html>
+  <head>
 <style>
   a{
   color: white;
@@ -12,13 +10,19 @@ Repositório reservado para armazenar as questões que foram escolhidas e resolv
   text-decoration: none;
   }
   </style>
+  </head>
+  <body>
+    <h1> T1_POO </h1>
+Repositório reservado para armazenar as questões que foram escolhidas e resolvidas para aprimorar os conhecimentos básicos em java. As questões aqui guardadas servirão para o professor analisar nossos conhecimentos. 
+
+    <h1> Equipe </h1>
 Integrantes: <br>
 <a href = "https://github.com/DaviCaroco" target = "_blank">Davi Brandão dos Santos</a> e<br>
 <a href = "https://github.com/PRoberto23" target = "_blank">Paulo Roberto Carlos de Sousa</a><br>
 P3 do Técnico Integrado em Informática no semestre 2022.2 <br>
 IFCE Campus Fortaleza.<br>
 
-## Questões
+    <h2> Questões </h2>
 <details><summary><b>Questão 03</b></summary>
   <p> Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. Nesse código o usuário deve digitar o seu salário atual, o código mostrará como vai ficar esse mesmo sálario porém dessa vez, com um aumento de 25%. </p>
   </details>
@@ -60,3 +64,5 @@ c) O valor, em reais, a ser pago com desconto de 15%.</p>
    <details><summary><b>Questão 25</b></summary>
   <p>Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse preograma deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado.</p>
   </details>
+</body>
+</html>
