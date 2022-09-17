@@ -16,8 +16,8 @@ Davi Brandão dos Santos e Paulo Roberto Carlos de Sousa;
   </details>
   <p></p>
   <details><summary>Questão 09</summary>
-  <p> Faça um programa que calcule e mostre a área de um triângulo. </p>
-  <p>Sabe-se que: Área = (base*altura)/2. </p>
+  <p> Faça um programa que calcule e mostre a área de um triângulo.
+    Sabe-se que: Área = (base*altura)/2. </p>
   </details>
   <p></p>
   
