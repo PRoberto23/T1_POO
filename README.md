@@ -17,8 +17,8 @@ Sabe-se que: Área = (base*altura)/2.|
 |10| Faça um programa que calcule e mostre a área de um círculo. 
 Sabendo-se que: Área = π R^2. | 
 |14| Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
-a) a idade dessa pessoa;
-b) quantos anos essa pessoa terá em 2005.|
+| | a) a idade dessa pessoa;
+| | b) quantos anos essa pessoa terá em 2005.|
 |17| Um trabalhador recebeu seu salário e o depositou em sua conta corrente bancária. Esse trabalhador emitiu dois cheques e agora deseja saber seu salário atual. Sabe-se que cada operação bancária de retirada paga CPMF de 0,38% e o salário inicial da conta está zerado. |
 |21| Faça um programa para calcular e mostrar a que distância deve estar uma escada da parede. O usuário deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro.
 Lembre-se que o tamanho da escada deve ser maior qua a altura que se deseja alcançar.|
