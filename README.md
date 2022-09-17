@@ -7,7 +7,7 @@ Integrantes
 Davi Brandão dos Santos e Paulo Roberto Carlos de Sousa;
 
 ## Questões
-<details><sumary>Questão 03</sumary>
+<details><summary>Questão 03</summary>
   <p>
     Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. Nesse código o usuário deve digitar o seu salário atual, o código mostrará como vai ficar esse mesmo sálario porém dessa vez, com um aumento de 25%.
   </p>
