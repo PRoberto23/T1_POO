@@ -52,6 +52,8 @@ c) O valor, em reais, a ser pago com desconto de 15%.</p>
    <details><summary><b>Questão 25</b></summary>
   <p>Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse preograma deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado.</p>
   </details>
-  <img style="float: right" alt="Java-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <div style="float: right">
+  <img alt="Java-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </div>
 </body>
 </html>
