@@ -11,6 +11,7 @@ P3 do Técnico Integrado em Informática no semestre 2022.2 <br>
 IFCE Campus Fortaleza.<br>
 
 <h3>Questões</h3>
+<h4>
 <details><summary><b>Questão 03</b></summary>
   <p> Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. Nesse código o usuário deve digitar o seu salário atual, o código mostrará como vai ficar esse mesmo sálario porém dessa vez, com um aumento de 25%. </p>
   </details>
@@ -52,6 +53,7 @@ c) O valor, em reais, a ser pago com desconto de 15%.</p>
    <details><summary><b>Questão 25</b></summary>
   <p>Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse preograma deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado.</p>
   </details>
+  </h4>
   <div align = "right">
   <img alt="Java-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
