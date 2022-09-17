@@ -5,8 +5,8 @@ Repositório reservado para armazenar as questões que foram escolhidas e resolv
 
 <h2> Equipe </h2>
 Integrantes: <br>
-<style text-decoration: none><a href = "https://github.com//DaviCaroco" >Davi Brandão dos Santos</a> e<br>
-  <a href = "https://github.com//PRoberto23">Paulo Roberto Carlos de Sousa</a><br></style>
+<a href = "https://github.com//DaviCaroco" >Davi Brandão dos Santos</a> e<br>
+  <a href = "https://github.com//PRoberto23">Paulo Roberto Carlos de Sousa</a><br>
 P3 do Técnico Integrado em Informática no semestre 2022.2 <br>
 IFCE Campus Fortaleza.<br>
 
