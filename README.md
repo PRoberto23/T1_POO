@@ -17,7 +17,19 @@ Davi Brandão dos Santos e Paulo Roberto Carlos de Sousa;
   <p></p>
   <details><summary>Questão 09</summary>
   <p> Faça um programa que calcule e mostre a área de um triângulo. <br>
-    Sabe-se que: Área = (base*altura)/2. </p>
+       Sabe-se que: Área = (base*altura)/2. </p>
   </details>
   <p></p>
-  
+  <details><summary>Questão 10</summary>
+  <p>Faça um programa que calcule e mostre a área de um círculo. <br>
+     Sabendo-se que: Área = π R^2.</p>
+  </details>
+  <details><summary>Questão 14</summary>
+  <p>Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: <br>
+    a) a idade dessa pessoa; <br>
+    b) quantos anos essa pessoa terá em 2005.</p>
+  </details>
+  <details><summary>Questão 17</summary>
+  <p>Um trabalhador recebeu seu salário e o depositou em sua conta corrente bancária. Esse trabalhador emitiu dois cheques e agora deseja saber seu salário atual. Sabe-se que cada operação bancária de retirada paga CPMF de 0,38% e o salário inicial da conta está zerado.</p>
+  </details>
+  <p></p>
