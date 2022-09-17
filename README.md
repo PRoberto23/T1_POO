@@ -59,3 +59,4 @@ c) O valor, em reais, a ser pago com desconto de 15%.</p>
   </div>
 </body>
 </html>
+ 
