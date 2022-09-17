@@ -2,9 +2,19 @@
 Repositório reservado para armazenar as questões que foram escolhidas e resolvidas para aprimorar os conhecimentos básicos em java. As questões aqui guardadas servirão para o professor analisar nossos conhecimentos. 
 
 # Equipe
+<style>
+  a{
+  color: white;
+  text-decoration: none;
+  }
+  a:hover {
+  color: blue;
+  text-decoration: none;
+  }
+  </style>
 Integrantes: <br>
-<a href = "https://github.com/DaviCaroco">Davi Brandão dos Santos</a> e<br>
-<a href = "https://github.com/PRoberto23">Paulo Roberto Carlos de Sousa</a><br>
+<a href = "https://github.com/DaviCaroco" target = "_blank">Davi Brandão dos Santos</a> e<br>
+<a href = "https://github.com/PRoberto23" target = "_blank">Paulo Roberto Carlos de Sousa</a><br>
 P3 do Técnico Integrado em Informática no semestre 2022.2 <br>
 IFCE Campus Fortaleza.<br>
 
