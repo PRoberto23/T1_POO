@@ -3,7 +3,7 @@ Trabalho de POO
 Neste repositório estão algumas das questões diponibilizadas para a o trabalho que vale a primeira nota da N1 da matéria de POO.;
 
 # Equipe
-Integrantes
+Integrantes <br>
 Davi Brandão dos Santos e Paulo Roberto Carlos de Sousa;
 
 ## Questões
