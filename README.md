@@ -5,10 +5,6 @@
   color: white;
   text-decoration: none;
   }
-  a:hover {
-  color: blue;
-  text-decoration: none;
-  }
   </style>
   </head>
   <body>
