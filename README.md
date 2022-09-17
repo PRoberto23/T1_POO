@@ -40,7 +40,7 @@ c) O valor, em reais, a ser pago com desconto de 15%.</p>
   </details>
    <details><summary><b>Questão 24</b></summary>
   <p>Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que: <br>
- <ul> para quatro e meia deve-se digitar 4.30; <br>
+ <ul type = "circle"> para quatro e meia deve-se digitar 4.30; <br>
    os minutos vão de 0 a 60.</ul></p>
   </details>
    <details><summary><b>Questão 25</b></summary>
