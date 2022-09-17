@@ -15,7 +15,7 @@
     <h1> T1_POO </h1>
 Repositório reservado para armazenar as questões que foram escolhidas e resolvidas para aprimorar os conhecimentos básicos em java. As questões aqui guardadas servirão para o professor analisar nossos conhecimentos. 
 
-<p> Equipe </p>
+<h2> Equipe <h2>
 Integrantes: <br>
 <a href = "https://github.com/DaviCaroco" target = "_blank">Davi Brandão dos Santos</a> e<br>
 <a href = "https://github.com/PRoberto23" target = "_blank">Paulo Roberto Carlos de Sousa</a><br>
